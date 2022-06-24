@@ -9,3 +9,4 @@
 8-james_bond grants --- --- rwx
 9-John_Doe change mode to rwx r-x -wx
 10-mirror_permissions mirrors a reference file permission to a targetted file
+11-directories_permissions persmission for subdirectories
