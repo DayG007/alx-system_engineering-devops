@@ -12,3 +12,4 @@
 11-lists list all files, including hidden files in th ecurrent and parent directory and the /boot directory in long format
 12-file_type prints the type of file
 13-symbolic_link create a symbolic link in the current working directory
+14-copy_html copy all new version of html files in current directory
