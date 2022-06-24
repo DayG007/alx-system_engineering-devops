@@ -7,3 +7,4 @@
 6-firstdiretory creates a firectory in /tmp
 7-movethatfile move a file from /tmp/ to /tmp/my_first_directory
 8-firstdelete delete a file from a directory
+9-firstdirdeletion deletes a directory from /tmp/
