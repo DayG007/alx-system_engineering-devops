@@ -5,3 +5,4 @@
 4-listmorefiles display current directory contents, including hidden files(starting with .). Use the long format
 5-listfilesdigitonly display current directory content  long format, user and group id numerically and hidden files
 6-firstdiretory creates a firectory in /tmp
+7-movethatfile move a file from /tmp/ to /tmp/my_first_directory
