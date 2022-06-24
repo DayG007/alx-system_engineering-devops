@@ -6,3 +6,4 @@
 5-listfilesdigitonly display current directory content  long format, user and group id numerically and hidden files
 6-firstdiretory creates a firectory in /tmp
 7-movethatfile move a file from /tmp/ to /tmp/my_first_directory
+8-firstdelete delete a file from a directory
