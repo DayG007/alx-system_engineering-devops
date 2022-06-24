@@ -6,3 +6,4 @@
 5-execute grant execute permission to owner
 6-multiple_permissions rwx rw- r-- to owner, group and other users
 7-everybody grant execute right to everybody
+8-james_bond grants --- --- rwx
