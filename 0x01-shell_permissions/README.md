@@ -13,3 +13,4 @@
 12-directory_permissions create and give permission simultaneously
 13-change_group change file group owner
 100-change_owner_and_group
+101-symbolic_link_permissions
