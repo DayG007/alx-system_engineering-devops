@@ -9,3 +9,4 @@
 8-firstdelete delete a file from a directory
 9-firstdirdeletion deletes a directory from /tmp/
 10-back changes the working directory to the previous one
+11-lists list all files, including hidden files in th ecurrent and parent directory and the /boot directory in long format
