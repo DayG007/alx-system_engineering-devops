@@ -9,3 +9,4 @@
 8-cwd_state
 9-duplicate_last_line
 10-no_more_js delees all .js files
+11-directories displays the number of directories and subdirectories in the present working directory
