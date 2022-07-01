@@ -7,3 +7,4 @@
 6-third_line displays the third line of a file
 7-file create a file with content
 8-cwd_state
+9-duplicate_last_line
