@@ -11,3 +11,4 @@
 10-no_more_js delees all .js files
 11-directories displays the number of directories and subdirectories in the present working directory
 12-newest_files displays the 10 neest files in a directory
+13-unique
